@@ -1,84 +1,83 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0E6,100:E6D5C3&height=180&text=Kwon%20Dongha%20(동하)&fontColor=5C4033&animation=fadeIn&fontSize=42&desc=Backend%20Developer%20in%20progress&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=Kwon%20Dongha%20(권동하)&fontColor=5C4033&animation=fadeIn&fontSize=40&desc=Backend%20Developer%20in%20progress&descAlignY=75" alt="header"/>
 </p>
 
-<!-- 상단 링크/카운터 -->
+<!-- 프로필 뷰 카운터 -->
 <p align="center">
-  <!-- 방문자수 (권장: komarev) -->
-  <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=for-the-badge&color=0E75B6" alt="profile views"/>
-  <!-- 방문자수 (대안: seeyoufarm) -->
- 
+  <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
 </p>
 
-<!-- 소개 -->
-<h1 align="center">👋 안녕하세요! 권동하입니다.</h1>
+---
+
+<h2 align="center">👋 안녕하세요, 권동하입니다.</h2>
 <p align="center">
-  복잡한 문제를 <b>체계적으로 분석</b>하고 <b>책임감 있는 코드</b>로 해결하는 개발자 지망생.<br/>
-  Spring + Docker + AWS로 백엔드의 기본기를 단단히 다지는 중입니다. ☕️⚙️
+  복잡한 문제를 <b>구조적으로 분석</b>하고, <b>단단한 기초</b> 위에 실전 코드를 쌓는 백엔드 개발자를 지향합니다.
 </p>
 
-<!-- 소셜/연락 -->
 <p align="center">
-  <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+  <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ansqhrl3037@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://velog.io/@ansqhrl3037"><img src="https://img.shields.io/badge/Blog-8B5E3C?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
+
+---
+
+## 👋 About Me
+- 안녕하세요, 권동하입니다.  
+- **Backend Development**와 **System Programming**에 꾸준히 몰입하고 있습니다.  
+- 현재는 **Java, Spring Boot, OS, Algorithms**를 중심으로 학습하고 있습니다.  
+- **KRAFTON Jungle 11기**에서 알고리즘, 시스템 프로그래밍, 백엔드 개발을 집중적으로 다루며 성장 중입니다.  
+- 운동과 공부를 병행하며 꾸준함을 바탕으로, 커피 한잔과 함께 매일 조금씩 더 나아가는 개발자를 지향합니다.  
 
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+<div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
+
+### 🔹 Backend & Database
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+### 🔹 Frontend & UI
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+### 🔹 DevOps & Cloud
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### 🔹 Tools & Monitoring
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ssyy3034&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ssyy3034&theme=radical" alt="streak"/>
-</p>
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyy3034&layout=compact&theme=radical&langs_count=8&hide_title=true" alt="top langs"/>
-</p>
-
----
-
-## 🏆 Solved.ac (Baekjoon)
-<p align="center">
+## 🏆 Solved.ac
+<div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
   <a href="https://solved.ac/ssyy3034" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ssyy3034" alt="Solved.ac Badge"/>
   </a>
-</p>
-
----
-
-🚀 About Me
-꾸준한 Running과 함꼐 꾸준한 Learning을 병행하고 있습니다.
-
-저는 탄탄한 기초 위에서 기술을 깊이 있게 파고드는(Deep Dive) 과정을 즐기는 백엔드 개발자입니다.
-
-커피 한 잔과 함께라면 복잡한 문제도 즐거운 도전이 되며, 작은 실험을 반복하며 어제보다 나은 코드를 만들어낼 때 가장 큰 보람을 느낍니다.
-
-현재는 Spring Boot, Docker, AWS를 중심으로 실제 서비스를 구축하고 배포 자동화 경험을 쌓고 있으며, 효율적인 문제 해결을 위해 알고리즘 학습도 꾸준히 이어가고 있습니다.
-
-<br>
-
-<details>
-  <summary>자세히 보기</summary>
-
-- Spring Security + JWT 인증, Docker Compose로 로컬 개발환경 고정
-- MariaDB/MySQL 튜닝과 인덱스 기초, 쿼리 프로파일링 관심
-- AWS EC2/ALB/S3, GitHub Actions로 CI/CD 자동화 맛보기
-</details>
+</div>
 
 ---
 
 ## 📫 Contact
-- Email: ansqhrl3037@gmail.com
-- Blog: https://velog.io/@ansqhrl3037
+<div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
+  
+📧 **Email**: [ansqhrl3037@gmail.com](mailto:ansqhrl3037@gmail.com)  
+✍ **Blog**: [velog.io/@ansqhrl3037](https://velog.io/@ansqhrl3037)  
+💻 **GitHub**: [github.com/ssyy3034](https://github.com/ssyy3034)  
+
+</div>
