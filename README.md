@@ -1,9 +1,7 @@
-<!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=Kwon%20Dongha%20(권동하)&fontColor=5C4033&animation=fadeIn&fontSize=40&desc=Backend%20Developer%20in%20progress&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=Kwon%20Dongha%20(권동하)&fontColor=5C4033&animation=fadeIn&fontSize=40&desc=Building%20Solid%20Web%20Foundations&descAlignY=75" alt="header"/>
 </p>
 
-<!-- 프로필 뷰 카운터 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
 </p>
@@ -12,7 +10,7 @@
 
 <h2 align="center">👋 안녕하세요, 권동하입니다.</h2>
 <p align="center">
-  복잡한 문제를 <b>구조적으로 분석</b>하고, <b>단단한 기초</b> 위에 실전 코드를 쌓는 백엔드 개발자를 지향합니다.
+  <b>기본</b>에 충실한 코드로 <b>편안한 사용자 경험</b>을 만드는 프론트엔드 개발자를 지향합니다.
 </p>
 
 <p align="center">
@@ -24,41 +22,32 @@
 ---
 
 ## 👋 About Me
-- 안녕하세요, 권동하입니다.  
-- **Backend Development**와 **System Programming**에 꾸준히 몰입하고 있습니다.  
-- 현재는 **Java, Spring Boot, OS, Algorithms**를 중심으로 학습하고 있습니다.  
-- **KRAFTON Jungle 11기**에서 알고리즘, 시스템 프로그래밍, 백엔드 개발을 집중적으로 다루며 성장 중입니다.  
-- 운동과 공부를 병행하며 꾸준함을 바탕으로, 커피 한잔과 함께 매일 조금씩 더 나아가는 개발자를 지향합니다.  
+- 안녕하세요, **기초의 중요성을 믿는** 개발자 권동하입니다.
+- **HTML, CSS, JavaScript**의 기본기를 단단히 다지고, 그 위에 사용자 경험을 쌓아 올립니다.
+- **JavaScript**에 대한 깊은 이해를 바탕으로 **TypeScript**와 **React**를 활용해 견고한 코드를 작성합니다.
+- **KRAFTON Jungle**에서 다진 **알고리즘과 시스템 프로그래밍 지식**은 문제 해결의 든든한 뿌리가 되어주고 있습니다.
+- 꾸준한 공부와 운동을 통해, 어제보다 오늘 더 성장하는 개발자를 지향합니다.
 
 ---
 
 ## 🧰 Tech Stack
 <div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
 
-### 🔹 Backend & Database
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-### 🔹 Frontend & UI
+### 🔹 Core Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### 🔹 DevOps & Cloud
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### 🔹 Frontend Library & Styling
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-### 🔹 Tools & Monitoring
+### 🔹 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
