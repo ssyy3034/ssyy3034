@@ -30,69 +30,26 @@
 
 ---
 
-
-## 🧰 Tech Stack with Proficiency
-
+## 🧰 Tech Stack
 <div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
 
 ### 🔹 Core Languages
-- 🛠️ **JavaScript, TypeScript, Python, Java**  
-  (실제 프로젝트에서 활용: AI Diary, Spark 분석, Spring Boot + React, YOLO/Flask 파이프라인 등)  
-- 📚 **HTML5, CSS3**  
-  (프로젝트 UI/README/간단 웹 구조에서 사용)  
-- 🌱 **C**  
-  (Pintos 대비 공부 시작, 기초 문법/메모리 모델 학습 중)  
-
----
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ### 🔹 Frontend Library & Styling
-- 🛠️ **React, TailwindCSS, Styled-Components**  
-  (AI Diary, Court-Kok, Dashboard 등 실제 프로젝트 UI 개발에 활용)  
-
----
-
-### 🔹 Backend & Frameworks
-- 🛠️ **Spring Boot**  
-  (회원가입/로그인/토큰 발급/DB 연동 프로젝트)  
-- 🛠️ **Flask**  
-  (AI 모델 inference 서버로 활용)  
-
----
-
-### 🔹 Databases
-- 🛠️ **MariaDB, MySQL, MongoDB**  
-  (AI Diary에서 Docker + DB 연동, Court-Kok에서 MongoDB 활용)  
-
----
-
-### 🔹 DevOps & Infra
-- 🛠️ **Docker**  
-  (Spring Boot + MariaDB Compose, YOLO 프로젝트 컨테이너)  
-- 🛠️ **AWS**  
-  (EC2, ECR, CloudWatch, Auto Scaling 등 실제 배포 경험)  
-- 📚 **GitHub Actions**  
-  (CI/CD 파이프라인 일부 적용)  
-
----
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 ### 🔹 Tools
-- 🛠️ **Git, GitHub, Postman**  
-  (협업/버전 관리/테스트에 적극 활용)  
-- 🛠️ **Figma**  
-  (UI 시안 제작 및 공유 경험)  
-- 🛠️ **Obsidian**  
-  (TIL, 일정/습관 관리, 프로젝트 목표 연동)  
-
----
-
-### 🔹 AI / Data
-- 🛠️ **PyTorch, YOLO** 
-  (컵 탐지, MOM 프로젝트 활용)  
-- 🛠️ **Apache Spark**  
-  (NYC Taxi 분석, 기말 프로젝트 발표/대시보드까지 확장)  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
-
 
 ---
 
