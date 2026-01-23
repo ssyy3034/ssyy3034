@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45&desc=Building%20Solid%20Web%20Foundations&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45&desc=단단한%20설계로%20유연한%20웹을%20만듭니다&descAlignY=75" alt="header"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
 </p>
