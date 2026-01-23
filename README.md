@@ -1,60 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=Kwon%20Dongha%20(권동하)&fontColor=5C4033&animation=fadeIn&fontSize=40&desc=Building%20Solid%20Web%20Foundations&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a3b31,100:8c8279&height=180&text=Kwon%20Dongha&fontColor=fcfaf9&animation=fadeIn&fontSize=40&desc=Engineering%20Solid%20Foundations%20through%20Technical%20Clarity&descAlignY=75" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=4a3b31" alt="profile views"/>
 </p>
 
 ---
 
-<h2 align="center">👋 안녕하세요, 권동하입니다.</h2>
+<h2 align="center">🏛️ Solving Complexity with Foundational Integrity</h2>
 <p align="center">
-  <b>기본</b>에 충실한 코드로 <b>편안한 사용자 경험</b>을 만드는 개발자를 지향합니다.
+  <b>시스템의 본질</b>을 이해하고, <b>견고한 설계</b>로 가치 있는 사용자 경험을 만드는 엔지니어 권동하입니다.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:ansqhrl3037@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://velog.io/@ansqhrl3037"><img src="https://img.shields.io/badge/Blog-8B5E3C?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-24201e?style=for-the-badge&logo=github&logoColor=fcfaf9" /></a>
+  <a href="mailto:ansqhrl3037@gmail.com"><img src="https://img.shields.io/badge/Email-4a3b31?style=for-the-badge&logo=gmail&logoColor=fcfaf9" /></a>
+  <a href="https://velog.io/@ansqhrl3037"><img src="https://img.shields.io/badge/Blog-8c8279?style=for-the-badge&logo=velog&logoColor=fcfaf9" /></a>
 </p>
 
 ---
 
-## 👋 About Me
-- 안녕하세요, **기초의 중요성을 믿는** 개발자 권동하입니다.
-- **HTML, CSS, JavaScript**의 기본기를 단단히 다지고, 그 위에 사용자 경험을 쌓아 올립니다.
-- **JavaScript**에 대한 깊은 이해를 바탕으로 **TypeScript**와 **React**를 활용해 견고한 코드를 작성합니다.
-- **KRAFTON Jungle**에서 다진 **알고리즘과 시스템 프로그래밍 지식**은 문제 해결의 든든한 뿌리가 되어주고 있습니다.
-- 꾸준한 공부와 운동을 통해, 어제보다 오늘 더 성장하는 개발자를 지향합니다.
+## 🔍 Featured Artifacts
+
+### 🌿 [Knowledge Garden](https://github.com/ssyy3034/my-knowledge-garden)
+
+> **Autonomous Learning Dashboard & Data Visualization**
+> Next.js, D3.js, Obsidian 데이터를 활용한 지식 그래프 엔진.
+> 단순 기록을 넘어 시각화된 데이터로 성장을 추적하는 엔지니어링 도구입니다.
+
+### ✍️ [StoLink Case Study](https://github.com/ssyy3034)
+
+> **High-Complexity Frontend Architecture**
+> NoSQL/RDB 다중 데이터 소스 연동 및 D3.js 기반 지식 그래프 시각화.
+> 5인 개발팀의 프론트엔드 전반을 전담하며 상기 성격의 데이터를 통합 관리하는 레이어를 설계했습니다.
 
 ---
 
-## 🧰 Tech Stack
-<div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
+## 🛠️ Engineering Scope
 
-### 🔹 Core Languages
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div align="center" style="border:1px solid #e8e4e1; border-radius:12px; padding:16px; background:#fcfaf9;">
+
+### 🔹 Core Specialized
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-24201e?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
 
-### 🔹 Frontend Library & Styling
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+### 🔹 System & Logic
 
-### 🔹 Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithm-4a3b31?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🏆 Solved.ac
-<div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
+## 📊 Technical Depth
+
+- **Operating Systems**: [Pintos Kernel](https://github.com/ssyy3034) 프로젝트를 통해 CPU 스케줄링, 가상 메모리 등 시스템 핵심 원리 구현 경험.
+- **Data Integration**: MongoDB와 RDB의 상이한 데이터 스키마를 정규화하여 프론트엔드 SSOT(Single Source of Truth)를 구축하는 설계 역량.
+- **Performance Optimization**: 브라우저 렌더링 파이프라인 최적화를 통해 대규모 데이터 환경에서도 60fps 유지를 보장하는 프론트엔드 튜닝.
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
   <a href="https://solved.ac/ssyy3034" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ssyy3034" alt="Solved.ac Badge"/>
   </a>
@@ -62,11 +77,12 @@
 
 ---
 
-## 📫 Contact
-<div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
-  
-📧 **Email**: [ansqhrl3037@gmail.com](mailto:ansqhrl3037@gmail.com)  
-✍ **Blog**: [velog.io/@ansqhrl3037](https://velog.io/@ansqhrl3037)  
-💻 **GitHub**: [github.com/ssyy3034](https://github.com/ssyy3034)  
+## 📫 Connect with Me
+
+<div align="center" style="border:1px solid #e8e4e1; border-radius:12px; padding:16px; background:#fcfaf9;">
+
+📧 **Email**: [ansqhrl3037@gmail.com](mailto:ansqhrl3037@gmail.com)
+✍ **Dev Blog**: [velog.io/@ansqhrl3037](https://velog.io/@ansqhrl3037)
+🏛 **Home Ground**: [my-knowledge-garden.vercel.app](https://github.com/ssyy3034/my-knowledge-garden)
 
 </div>
