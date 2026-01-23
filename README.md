@@ -78,10 +78,10 @@
 
 ---
 
-## 🏆 Problem Solving
+## 🏆 Solved.ac
 <div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
   <a href="https://solved.ac/ssyy3034" target="_blank">
-    <img src="http://mazandi.herokuapp.com/api?handle=ssyy3034&theme=warm" width="100%" alt="Solved.ac Badge"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ssyy3034" height="170" alt="Solved.ac Badge"/>
   </a>
 </div>
 
