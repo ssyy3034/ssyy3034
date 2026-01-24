@@ -63,23 +63,6 @@
 
 <br>
 
-<h2 align="center">🏆 Key Projects</h2>
-
-### 1. [StoLink (Authorius)](https://github.com/ssyy3034)
-**작가용 지능형 웹 에디터 및 세계관 시각화**
-- **Decision:** NoSQL과 RDB 간의 데이터 정합성 유지와 에디터-그래프 동기화 효율성 확보.
-- **Solution:** Adapter Pattern을 도입하여 상이한 데이터 스키마를 단일 진실 공급원(SSOT)으로 정규화하고, Direct DOM manipulation을 적용하여 대규모 그래프 렌더링 병목을 해결했습니다.
-- **Keyword:** `Architecture Design` `Performance Optimization` `Data Integrity`
-
-<br>
-
-### 2. [Knowledge Garden](https://github.com/ssyy3034/my-knowledge-garden)
-**개인 지식 관리(PKM) 및 자율 학습 데이터 시각화**
-- **Decision:** 방대한 마크다운 데이터의 실시간 파싱 및 시각화 프레임 드롭 최소화.
-- **Solution:** E2E 관점에서 파일 파싱 파이프라인을 구축하고, D3.js Force Simulation 연산을 최적화하여 60FPS 이상의 안정적인 인터랙션 환경을 구현했습니다.
-- **Keyword:** `Pipeline Engineering` `Data Visualization` `User Experience`
-
-<br>
 
 <h2 align="center">🎖 Problem Solving</h2>
 
