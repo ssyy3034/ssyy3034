@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45&desc=단단한%20설계로%20유연한%20웹을%20만듭니다&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45&desc=기술적%20근거로%20최적의%20해답을%20도출합니다&descAlignY=75" alt="header"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
@@ -7,9 +7,10 @@
 
 ---
 
-<h2 align="center">안녕하세요.</h2>
+<h2 align="center">Engineer's Statement</h2>
 <p align="center">
-  <b>기본(OS/CS)</b>에 충실한 설계로 <b>복잡한 문제를 해결</b>하고, <b>지속 가능한 코드</b>를 작성합니다.
+  <b>꾸준한 공부를 토대로 기술적 트레이드오프를 분석하고, 최적의 의사결정을 내리는 개발자 권동하입니다.</b><br>
+  단순 구현을 넘어 시스템 전반의 인과관계를 파악하며, 비즈니스 가치를 극대화하는 설계를 지향합니다.
 </p>
 
 <p align="center">
@@ -20,83 +21,63 @@
 
 ---
 
-## About Me
+## 🛠 Engineering Core Values
 
-- **기본기를 지향하는 개발자:** KAIST Pintos 프로젝트(OS)를 통해 익힌 로우 레벨 지식을 바탕으로, 메모리 효율과 렌더링 성능을 고려한 코드를 작성합니다.
-- **문제 정의 및 해결:** 단순 기능 구현이 아닌, 비즈니스 로직의 복잡도를 제어하고 데이터의 일관성(SSOT)을 지키는 아키텍처를 지향합니다.
-- **성장 지속:** '돌아가는 코드'에 만족하지 않고, 동료가 읽기 쉽고 유지보수하기 좋은 구조를 끊임없이 고민합니다.
+- **엔드 투 엔드(End-to-End) 학습 역량**
+  - KAIST Pintos(OS) 프로젝트를 통해 하부 시스템의 메커니즘을 학습했습니다. 이를 바탕으로 프런트엔드와 백엔드 사이의 데이터 흐름 및 렌더링 파이프라인 전반을 관통하는 최적화 지점을 찾아냅니다.
+- **불확실성(Gray Zone) 제거**
+  - 업무의 설계 의도와 요구사항을 기술적 언어로 명확히 정의하여 모호성을 제거합니다. 능동적인 소통과 문서화를 통해 협업 비용을 최소화하고 실행 가능한 해결책을 도출합니다.
+- **실무적 트레이드오프(Trade-off) 최적화**
+  - 기술적 완벽주의에 함몰되지 않고 가용 리소스와 성능 사이의 균형을 고려합니다. 명확한 문제 정의를 바탕으로 논리적 근거가 뒷받침된 의사결정을 수행합니다.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
 
-### Frontend & Architecture
-
+### 🔹 Frontend & Core
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white"/>
 
-### Backend & System
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+### 🔹 Backend & Database
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+### 🔹 System & DevOps
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
-
 ---
 
-## Key Projects
-
-<div align="left" style="border:1px solid #e6d5c3; border-radius:12px; padding:20px; background:#fffaf5;">
-
-### 1. [StoLink (Authorius)](https://github.com/ssyy3034)
-
-> **작가용 지능형 웹 에디터 및 세계관 시각화** > <br> > <img src="https://img.shields.io/badge/Frontend_Developer-4a3b31?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React_Next.js-8c8279?style=flat-square&logoColor=white"/>
-
-- **Challenge:** NoSQL(relation)과 RDB(character) 간 데이터 스키마 불일치 및 에디터-그래프 동기화 병목 해결.
-- **Solution:** Adapter Pattern 기반의 정규화 레이어를 구축하여 데이터 정합성을 확보하고, Direct DOM manipulation으로 렌더링 성능 최적화.
-- **Tech:** Tiptap(Custom Node), Zustand, TanStack Query, D3.js
-
-<br>
-
-### 2. [Knowledge Garden](https://github.com/ssyy3034/my-knowledge-garden)
-
-> **개인 지식 관리(PKM) 및 자율 성향 데이터 시각화** > <br> > <img src="https://img.shields.io/badge/Sole_Developer-4a3b31?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/D3.js_Next.js-8c8279?style=flat-square&logoColor=white"/>
-
-- **Engineering:** Obsidian 마크다운 파싱 파이프라인 구축 및 지식 그래프 시각화.
-- **Performance:** Force Simulation 연산 최적화(DOM 직접 조작)로 60FPS 이상의 안정적인 인터랙션 환경 구현.
-- **Tech:** Next.js(App Router), D3.js, Tailwind CSS
-
-</div>
-
----
-
-## Competitive Programming
+## 🎖 Competitive Programming
 
 <div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
   <a href="https://solved.ac/ssyy3034" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ssyy3034" height="170" alt="Solved.ac Badge"/>
   </a>
+  <p>알고리즘 문제 해결을 통해 <b>복잡도 관리</b>와 <b>최적화 사고</b>를 훈련합니다.</p>
 </div>
 
 ---
 
-## Contact
+## 📬 Contact
 
 <div align="center" style="border:1px solid #e6d5c3; border-radius:12px; padding:16px; background:#fffaf5;">
 
-📧 **Email**: [ansqhrl3037@gmail.com](mailto:ansqhrl3037@gmail.com)
-✍ **Blog**: [velog.io/@ansqhrl3037](https://velog.io/@ansqhrl3037)
-💻 **GitHub**: [github.com/ssyy3034](https://github.com/ssyy3034)
+📧 **Email**: [ansqhrl3037@gmail.com](mailto:ansqhrl3037@gmail.com) | ✍ **Blog**: [velog.io/@ansqhrl3037](https://velog.io/@ansqhrl3037) | 💻 **GitHub**: [github.com/ssyy3034](https://github.com/ssyy3034)
 
 </div>
