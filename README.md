@@ -18,14 +18,11 @@
   <br><br>
 </div>
 
-> **엔드 투 엔드(End-to-End) 학습 역량**
-> <br>단순 기능 구현을 넘어 소프트웨어 생애 주기 전반의 프로세스를 분석하고 학습하여 시스템의 구조적 이해도를 높입니다.
+> **엔드 투 엔드(End-to-End) 학습 역량** > <br>단순 기능 구현을 넘어 소프트웨어 생애 주기 전반의 프로세스를 분석하고 학습하여 시스템의 구조적 이해도를 높입니다.
 
-> **불확실성(Gray Zone) 제거**
-> <br>업무의 설계 의도와 요구사항을 명확히 정의하여 모호성을 제거합니다. 능동적인 소통을 통해 팀 내 협업 비용을 최소화하고 실행 가능한 해결책을 도출합니다.
+> **불확실성(Gray Zone) 제거** > <br>업무의 설계 의도와 요구사항을 명확히 정의하여 모호성을 제거합니다. 능동적인 소통을 통해 팀 내 협업 비용을 최소화하고 실행 가능한 해결책을 도출합니다.
 
-> **실무적 트레이드오프(Trade-off) 최적화**
-> <br>기술적 완벽주의에 매몰되지 않고 리소스와 성능 사이의 균형을 고려합니다. 명확한 문제 정의를 바탕으로 논리적 근거가 뒷받침된 기술적 의사결정을 수행합니다.
+> **실무적 트레이드오프(Trade-off) 최적화** > <br>기술적 완벽주의에 매몰되지 않고 리소스와 성능 사이의 균형을 고려합니다. 명확한 문제 정의를 바탕으로 논리적 근거가 뒷받침된 기술적 의사결정을 수행합니다.
 
 <br>
 
@@ -34,17 +31,20 @@
 <div align="center">
 
 ### Languages & Frameworks
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 ### State Management & Libraries
+
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white"/>
 
 ### Backend & Database
+
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
 ### System & Tools
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -59,7 +60,6 @@
 
 </div>
 <br>
-
 
 <h2 align="center">🎖 Problem Solving</h2>
 
