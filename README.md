@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45&desc=기술적%20근거로%20최적의%20해답을%20도출합니다&descAlignY=75" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=180&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45&desc=AI%20도구로%20비즈니스%20가치를%20실현하는%20풀스택%20엔지니어&descAlignY=75" alt="header" width="100%"/>
   <br>
   <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" /></a>
   <a href="mailto:ansqhrl3037@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=social&logo=gmail" /></a>
@@ -14,15 +14,15 @@
 
 <div align="center">
   <br>
-  <b>"꾸준한 공부를 토대로 기술적 트레이드오프를 분석하고,<br> 최적의 의사결정을 내리는 개발자 권동하입니다."</b>
+  <b>"탄탄한 기본기를 토대로 AI와 함께 문제를 해결하고, 팀의 생산성 향상에 기여하는<br> 소프트웨어 엔지니어 권동하입니다."</b>
   <br><br>
 </div>
 
-> **엔드 투 엔드(End-to-End) 학습 역량** > <br>단순 기능 구현을 넘어 소프트웨어 생애 주기 전반의 프로세스를 분석하고 학습하여 시스템의 구조적 이해도를 높입니다.
+> **AI-Native :** > <br>Claude Code, Cursor 등 AI 도구를 단순 보조가 아닌 **페어 프로그래밍 파트너**로 활용하여 생산성을 극대화합니다. **StoLink** 프로젝트에서 팀의 반복적인 Git 작업을 자동화하는 워크플로우를 구축하고, AI 에이전트 파이프라인을 설계하여 **개발자 경험(DX)을 혁신**하고 팀의 효율을 높인 경험이 있습니다.
 
-> **불확실성(Gray Zone) 제거** > <br>업무의 설계 의도와 요구사항을 명확히 정의하여 모호성을 제거합니다. 능동적인 소통을 통해 팀 내 협업 비용을 최소화하고 실행 가능한 해결책을 도출합니다.
+> **Fullstack & Product-Mind: '왜'를 고민하는 엔지니어** > <br>React/Next.js와 Node.js/Python을 넘나드는 **풀스택 역량**으로 서비스의 End-to-End를 책임집니다. 기술적 구현에 그치지 않고, **"어떤 기술이 사용자에게 가장 큰 가치를 주는가?"**를 끊임없이 고민합니다. **Aidiary**의 AI 솔루션부터 **StoLink**의 대규모 캔버스 최적화까지, 비즈니스 문제를 해결하기 위한 **최적의 아키텍처**를 설계합니다.
 
-> **실무적 트레이드오프(Trade-off) 최적화** > <br>기술적 완벽주의에 매몰되지 않고 리소스와 성능 사이의 균형을 고려합니다. 명확한 문제 정의를 바탕으로 논리적 근거가 뒷받침된 기술적 의사결정을 수행합니다.
+> **CS Fundamentals: 흔들리지 않는 기본기** > <br> 운영체제와 컴퓨터 아키텍처 등 **CS 핵심 원리**를 깊이 있게 체득했습니다. 이러한 기본기를 바탕으로, 단순한 기능 구현을 넘어 **안정적이고 효율적인 시스템**을 구축합니다.
 
 <br>
 
@@ -57,6 +57,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+### AI Tools
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 
 </div>
 <br>
