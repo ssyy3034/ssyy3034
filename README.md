@@ -4,6 +4,8 @@
   <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" /></a>
   <a href="mailto:ansqhrl3037@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=social&logo=gmail" /></a>
   <a href="https://velog.io/@ansqhrl3037"><img src="https://img.shields.io/badge/Blog-8B5E3C?style=social&logo=velog" /></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
 </div>
 
 <br>
