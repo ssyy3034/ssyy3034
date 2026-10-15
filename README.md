@@ -1,39 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:E6D5C3&height=150&text=권%20동하&fontColor=5C4033&animation=fadeIn&fontSize=45" alt="header" width="100%"/>
-  <br>
-  <a href="https://github.com/ssyy3034"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" /></a>
-  <a href="mailto:ansqhrl3037@gmail.com"><img src="https://img.shields.io/badge/Email-5C4033?style=social&logo=gmail" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ssyy3034&style=flat-square&color=5C4033" alt="profile views"/>
-</div>
+### 권동하
 
-<br>
+백엔드 개발자입니다. STEG에서 CRM의 청구·인력 관리 기능과 제품 이관을 맡고 있습니다.
+주어진 요구를 구현하는 데서 멈추지 않고, 운영 중인 서비스의 개선점을 먼저 찾아 실행합니다.
 
-<h2 align="center">Tech Stack</h2>
+**최근에 한 일**
 
-<div align="center">
+- 사내 지식 검색 MCP 서버: 코딩 에이전트에 사내 문서의 근거를 돌려주는 검색 서버를 만들어 운영하고 있습니다. 검색 응답 p95를 2,972ms에서 642ms로 줄였고, Cloud Run CPU 과금의 82%를 차지하던 유휴 연결을 차단했습니다.
+- 세일즈 네비게이터: 동료의 사내 해커톤 작품을 CRM 플랫폼 모듈로 옮기고, 회의록·딜 준비 기능으로 확장하고 있습니다.
+- StoLink: 전체 API가 간헐적으로 멈추던 장애를 thread dump로 추적해, 타임아웃 없는 외부 호출이 DB 커넥션을 붙잡던 원인을 찾아 해결했습니다.
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white"/>
+**더 보기**
 
-</div>
+- 포트폴리오와 블로그: https://www.ssyy3034.dev
+- 이력서: https://www.ssyy3034.dev/resume
+- 이메일: ansqhrl3037@gmail.com
 
-<br>
-
-<h2 align="center">Problem Solving</h2>
-
-<div align="center">
-  <a href="https://solved.ac/ssyy3034" target="_blank">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ssyy3034" alt="Solved.ac Badge"/>
-  </a>
-</div>
+주로 쓰는 기술: Java, Python, Spring Boot, PostgreSQL, RabbitMQ, GCP, AWS
